@@ -1,4 +1,4 @@
-# Homework-13-ORM-E-Commerce-Back-End
+# ORM-E-Commerce-Back-End
 
 ## Description
 This application is a back end for an e-commerce website that uses the latest technologies
